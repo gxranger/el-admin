@@ -13,6 +13,8 @@ dist
 dist-ssr
 coverage
 *.local
+.styleintcache
+.eslintcache
 
 /cypress/videos/
 /cypress/screenshots/
